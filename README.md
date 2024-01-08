@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Demonstração
 
 <p align="center">
-  <img src="./public/images/video_3.mp4" alt="Demonstração do projeto" width="70%" />
+  <img src="/public/images/video_3.mp4" alt="Demonstração do projeto" width="70%" />
 </p>
 
 ## 🔖 
