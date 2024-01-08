@@ -15,9 +15,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Demonstração
 
-<p align="center">
-  <img src="./public/images/video_3.mp4" alt="Demonstração do projeto" width="50%" />
-</p>
+<video width="320" height="240" controls>
+  <source src="./public/images/video_3.mp4" type="video/mp4">
+</video>
 
 ## 🔖 
 Projeto de estudo do next.js com integração da api do discord, para criar um forms do qual qualquer mensagem enviada, será recebido em um servidor do discord. 
