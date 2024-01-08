@@ -15,6 +15,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Demonstração
 
+<p align="center">
+  <img src="/public/images/video_3.gif" alt="Telas do Projeto" width="50%" />
+</p>
+
 <video width="320" height="240" controls>
   <source src="/public/images/video_3.gif" type="video/mp4">
 </video>
