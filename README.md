@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Demonstração
 
 <video width="320" height="240" controls>
-  <source src="./public/images/video_3.mp4" type="video/mp4">
+  <source src="/public/images/video_3.mp4" type="video/mp4">
 </video>
 
 ## 🔖 
